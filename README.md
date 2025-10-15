@@ -1,6 +1,6 @@
 # User Authentication App
 
-A simple full-stack user authentication system built with React, Node.js, Express, SQLite, bcrypt for password hashing, and JWT for authentication.The goal of the project is to build a Scalable REST API with Authentication & Role-Based Access using Node.js and a basic frontend UI using React.js to interact with the APIs.
+A simple full-stack user authentication system built with React, Node.js, Express, SQLite, bcrypt for password hashing, and JWT for authentication.The goal of the project is to build a Scalable REST API with Authentication & Role-Based Access using Node.js and a basic frontend UI using React.js to interact with the APIs.The goal of the project is to build a Scalable REST API with Authentication & Role-Based Access using Node.js and a basic frontend UI using React.js to interact with the APIs. 
 ---
 
 ## Features
